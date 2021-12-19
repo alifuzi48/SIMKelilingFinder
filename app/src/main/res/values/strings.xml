@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SIM keliling Finder</string>
+    <string name="SyaratSIMA">Syarat Perpanjang SIM A \n</string>
+    <string name="SyaratSIMA1">Dokumen Yang Harus Dibawa </string>
+    <string name="SyaratSIMA2">Berikut adalah dokumen yang harus dibawa saat anda datang ke lokasi SIM keliling : </string>
+    <string name="SyaratSIMA3">1.Fotokopi E-KTP \n2.SIM A asli yang akan diperpanjang \n3.Bukti cek kesehatan(didapatkan dilokasi) \n</string>
+    <string name="SyaratSIMA4">Sekilas</string>
+    <string name="SyaratSIMAdes">SIM A adalah SIM untuk mobil, SIM dapat diperpanjang\n14 hari sebelum masa berlaku SIM habis\nMohon mengecek terlebih dahulu masa berlaku SIM\n</string>
+
+    <string name="SyaratSIMC">Syarat Perpanjang SIM C \n</string>
+    <string name="SyaratSIMC1">Dokumen Yang Harus Dibawa </string>
+    <string name="SyaratSIMC2">Berikut adalah dokumen yang harus dibawa saat anda datang ke lokasi SIM keliling : </string>
+    <string name="SyaratSIMC3">1.Fotokopi E-KTP \n2.SIM C asli yang akan diperpanjang \n3.Bukti cek kesehatan(didapatkan dilokasi) \n</string>
+    <string name="SyaratSIMC4">Sekilas</string>
+    <string name="SyaratSIMCdes">SIM C adalah SIM untuk motor, SIM dapat diperpanjang 14 hari sebelum masa berlaku SIM habis\nMohon mengecek terlebih dahulu masa berlaku SIM\n</string>
+
+    <string name="waktuoper">Waktu Operasional Seluruh SIM Keliling \n</string>
+    <string name="waktuoper1">Hari Operasional </string>
+    <string name="waktuoper2">SIM Keliling memiliki perbedaan hari buka pada setiap tempatnya, namun secara garis besar hari operasionalnya adalah sebagai berikut : </string>
+    <string name="waktuoper3">>Senin - Jumat \n</string>
+    <string name="waktuoper4">Jam Operasional</string>
+    <string name="waktuoper5">SIM Keliling memiliki perbedaan jam buka pada setiap tempatnya, namun secara garis besar jam operasionalnya adalah sebagai berikut : </string>
+    <string name="waktuoper6">>08.00 - 14.00 WIB \n</string>
+    <string name="waktuoper7">Status Operasional </string>
+
+    <string name="infoapk">Informasi Tentang Aplikasi Dan SIM Keliling \n</string>
+    <string name="infoapk1">Informasi SIM Keliling </string>
+    <string name="infoapk2">Perpanjangan SIM yang bisa dilakukan hanya terbatas pada SIM motor (C) dan juga SIM mobil (A), sedangkan untuk SIM lainnya harus dilakukan secara langsung di kantor Samsat.\n</string>
+    <string name="infoapk3">Informasi Aplikasi ini </string>
+    <string name="infoapk4">Aplikasi ini dibuat oleh Alif Fauzi Achmad dari Teknik Informatika Universitas YARSI </string>
+
+</resources>

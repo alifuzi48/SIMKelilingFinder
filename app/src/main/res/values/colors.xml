@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff42b549</color>
+    <color name="colorPrimaryDark">#ff42b549</color>
+    <color name="colorAccent">#FBC02D</color>
+    <color name="bgrnd_cv">#D3D3D3</color>
+    <color name="infoapk">#8cbab9</color>
+    <color name="jamOper">#d6d6d6</color>
+    <color name="pengenalan">#28436c</color>
+    <color name="pendaftaran">#e3caae</color>
+    <color name="warnapembuka">#007bff</color>
+    <color name="SimAC">#eaeaea</color>
+    <color name="merah">#ff0000</color>
+    <color name="hijau">#ff42b549</color>
+    <color name="hitam">#1b1e23</color>
+
+</resources>
