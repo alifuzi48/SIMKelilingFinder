@@ -71,13 +71,6 @@ public class MainActivity extends AppCompatActivity implements MainAdapter.onSel
         statusCheck();
     }
 
-    /*private void getToday() {
-        Date date = Calendar.getInstance().getTime();
-        String tanggal = (String) DateFormat.format("d MMMM yyyy", date);
-        String formatFix = hariIni + ", " + tanggal;
-        tvWelcome.setText(formatFix);
-    }*/
-
     public boolean scrollToTop(View v) {
         Intent myIntent = new Intent(getApplicationContext(), LoginAdmin.class);
         startActivityForResult(myIntent, 0);

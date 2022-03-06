@@ -1,4 +1,6 @@
 <resources>
+    <string name="Api_key">AIzaSyCPwJ-WAHbO7wiAC3t2XDW5D6jigVH7XTE</string>
+
     <string name="app_name">SIM keliling Finder</string>
     <string name="SyaratSIMA">Syarat Perpanjang SIM A \n</string>
     <string name="SyaratSIMA1">Dokumen Yang Harus Dibawa </string>

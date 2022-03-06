@@ -56,7 +56,6 @@ import java.util.List;
 import java.util.Map;
 
 public class DetailEdit extends AppCompatActivity {
-    String apikey ="AIzaSyCBDX3N7GdHxMWMbyPLuVr2oCbKaoL2Xeo";
     Toolbar tbDetailedit;
     String intent_nama, intent_imgurl, intent_jambuka, intent_jamtutup,
             intent_haribuka, intent_haritutup, intent_longitude, intent_latitude;
@@ -353,7 +352,7 @@ public class DetailEdit extends AppCompatActivity {
         //array
         placeFields = Arrays.asList(Place.Field.ID,Place.Field.NAME,Place.Field.LAT_LNG);
         // initialized place
-        Places.initialize(getApplicationContext(), apikey);
+        Places.initialize(getApplicationContext(), getString(R.string.Api_key));
         //place Client
         PlacesClient placesClient = Places.createClient(this);
     }

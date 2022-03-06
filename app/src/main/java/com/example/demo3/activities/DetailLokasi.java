@@ -31,7 +31,6 @@ import org.threeten.bp.ZonedDateTime;
 import java.util.Calendar;
 
 public class DetailLokasi extends AppCompatActivity implements OnMapReadyCallback, TaskLoadedCallback {
-    String key = "AIzaSyCBDX3N7GdHxMWMbyPLuVr2oCbKaoL2Xeo";
     Toolbar tbDetaillokasi;
     GoogleMap googleMaps;
     TextView namadetail, jamOpdetail, hariOpdetail, statusdetail;
@@ -324,7 +323,7 @@ public class DetailLokasi extends AppCompatActivity implements OnMapReadyCallbac
         // Output format
         String output = "json";
         // Building the url to the web service
-        String url = "https://maps.googleapis.com/maps/api/directions/" + output + "?" + parameters + "&key=" + key;
+        String url = "https://maps.googleapis.com/maps/api/directions/" + output + "?" + parameters + "&key=" + getString(R.string.Api_key);
         return url;
     }
 
